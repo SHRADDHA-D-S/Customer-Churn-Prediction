@@ -4,6 +4,12 @@ An end-to-end Machine Learning project that predicts whether a customer is likel
 
 ---
 
+🚀 Live Demo
+
+🔗 Live Application: https://customer-churn-prediction-1-wczr.onrender.com
+
+---
+
 ## 📌 Features
 
 - Data Cleaning & Preprocessing
