@@ -14,9 +14,10 @@ __pycache__/
 # MLflow
 mlruns/
 artifacts/
+mlflow.db
 # Models
-*.pkl
-*.joblib
+#*.pkl
+#*.joblib
 
 *.db
 # Environment
