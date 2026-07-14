@@ -202,11 +202,6 @@ or
 
 ![Docker](screenshots/docker_running.png)
 
----
-
-## 📁 Project Structure
-
-![Project Structure](screenshots/project_structure.png)
 
 ---
 
