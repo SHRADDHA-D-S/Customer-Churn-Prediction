@@ -1,14 +1,27 @@
-# 🚀 Customer Churn Prediction System
+# 🚀 End-to-End Customer Churn Prediction using Machine Learning
 
-An end-to-end Machine Learning project that predicts whether a customer is likely to churn using a Scikit-learn Pipeline. The project includes experiment tracking with MLflow, REST API deployment using FastAPI, Docker containerization, and is ready for AWS deployment.
+## 📖 Project Overview
+
+This project predicts whether a telecom customer is likely to churn based on customer demographics, account information, and service usage. It demonstrates a complete Machine Learning workflow, from data preprocessing and model training to experiment tracking, API development, Docker containerization, and cloud deployment using Render.
 
 ---
 
-🚀 Live Demo
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 
-🔗 Live API: https://customer-churn-prediction-1-wczr.onrender.com
+![FastAPI](https://img.shields.io/badge/FastAPI-REST_API-green)
 
-🔗 Swagger Documentation: https://customer-churn-prediction-1-wczr.onrender.com/docs
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+
+![MLflow](https://img.shields.io/badge/MLflow-Experiment_Tracking-orange)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
+
+## 🌐 Live Demo
+
+- **API:** https://customer-churn-prediction-1-wczr.onrender.com
+- **Swagger UI:** https://customer-churn-prediction-1-wczr.onrender.com/docs
 
 ---
 
@@ -23,7 +36,29 @@ An end-to-end Machine Learning project that predicts whether a customer is likel
 - FastAPI REST API
 - Swagger UI Documentation
 - Docker Containerization
-- Ready for AWS Elastic Beanstalk Deployment
+- Ready for Render Deployment
+
+---
+
+## 🏗 Project Workflow
+
+Dataset
+   ↓
+Data Preprocessing
+   ↓
+Feature Engineering
+   ↓
+Scikit-learn Pipeline
+   ↓
+Model Training
+   ↓
+MLflow Experiment Tracking
+   ↓
+FastAPI REST API
+   ↓
+Docker Container
+   ↓
+Render Deployment
 
 ---
 
@@ -73,13 +108,13 @@ CUSTOMER_CHURN_PREDICTION
 Clone the repository
 
 ```bash
-git clone https://github.com/SHRADDHA-D-S/Customer_Churn_Prediction.git
+git clone https://github.com/SHRADDHA-D-S/Customer-Churn-Prediction.git
 ```
 
 Move into the project
 
 ```bash
-cd Customer_Churn_Prediction
+cd Customer-Churn-Prediction
 ```
 
 Create virtual environment
@@ -156,6 +191,17 @@ http://127.0.0.1:5000
 
 ---
 
+## 📊 Model Performance
+
+| Metric | Score |
+|---------|-------|
+| Accuracy | 82.11% |
+| Precision | 68.50% |
+| Recall | 60.05% |
+| F1 Score | 64.00% |
+
+---
+
 ## 🎯 API Endpoint
 
 POST
@@ -209,11 +255,24 @@ or
 
 ## 📈 Future Improvements
 
-- Hyperparameter Tuning
-- XGBoost Deployment
-- AWS Elastic Beanstalk Deployment
-- CI/CD using GitHub Actions
-- Streamlit Dashboard
+- Train and compare multiple ML models
+- Hyperparameter tuning using GridSearchCV
+- CI/CD pipeline with GitHub Actions
+- Deploy on AWS Elastic Beanstalk
+- Build a Streamlit dashboard
+- Real-time prediction monitoring
+
+---
+
+## 🏆 Project Highlights
+
+- End-to-End Machine Learning Pipeline
+- REST API using FastAPI
+- Dockerized Application
+- MLflow Experiment Tracking
+- Live Deployment on Render
+- Version Controlled using Git & GitHub
+- Successfully deployed on Render using Docker
 
 ---
 
