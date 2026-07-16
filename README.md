@@ -1,9 +1,5 @@
 # 🚀 End-to-End Customer Churn Prediction using Machine Learning
 
-<p align="center">
-<img src="screenshots/project_banner.png" width="900">
-</p>
-
 ## 📖 Project Overview
 
 This project predicts whether a telecom customer is likely to churn based on customer demographics, account information, and service usage. It demonstrates a complete Machine Learning workflow, from data preprocessing and model training to experiment tracking, API development, Docker containerization, and cloud deployment using Render.
