@@ -40,44 +40,6 @@ This project predicts whether a telecom customer is likely to churn based on cus
 
 ---
 
-## 🏗 Project Workflow
-
-Dataset
-
-          ↓
-   
-Data Preprocessing
-
-          ↓
-   
-Feature Engineering
-
-          ↓
-   
-Scikit-learn Pipeline
- 
-          ↓
-   
-Model Training
-   
-          ↓
-   
-MLflow Experiment Tracking
-   
-          ↓
-   
-FastAPI REST API
-   
-          ↓
-   
-Docker Container
-   
-          ↓
-   
-Render Deployment
-
----
-
 ## 🛠 Tech Stack
 
 - Python
